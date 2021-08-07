@@ -36,7 +36,8 @@ Python enthusiast who constantly tries to expand his knowledge and focus on ongo
 ## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
- 
+- [SQL Injection-how to avoid problem in Python DB API](https://sklodowski94.medium.com/sql-injection-how-to-avoid-problem-in-python-db-api-b27739caa7ec?source=rss-6ffbdea598ee------2)
+- [Why civil enginner want to become developer](https://sklodowski94.medium.com/why-civil-enginner-want-to-become-developer-277b68f87e5c?source=rss-6ffbdea598ee------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
